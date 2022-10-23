@@ -2,9 +2,10 @@ clear;
 clc;
 
 %% 读取图像
-x = imread('.\BMP_images\cman256.BMP');
-% x = imread('.\BMP_images\lena256.BMP');
-figure(1),imshow(x), title('Raw figure'),saveas(gcf,'Raw_figure1','jpg')
+x = imread('..\BMP_images\cman256.BMP');
+figure(1),subplot(1,2,1),imshow(x),saveas(gcf,'figure1','jpg')
+% x = imread('..\BMP_images\lena256.BMP');
+subplot(1,2,2),imshow(x),saveas(gcf,'figure2','jpg')
 figure(2),subplot(2,2,1), imshow(x), title('Raw figure')
 
 %% 傅里叶变换
