@@ -38,3 +38,18 @@ This is the digital image processing course projects of SJTU.
 `project2/salt_pepper_noise.py`: add salt-and-pepper noise
 
 `project2/wavelet_based_denoising.py`: use wavelet-based denoising algorithm
+
+## Project3
+
+![image3](https://github.com/JeremyChou28/digital_image_processing/blob/main/imgs/image3.png)
+
+`project3/results`：
+
+- `lena.png`: raw figure
+- `GaussianBlur_image.png`: the image processed by gaussian blurring
+- `lapres.png`: the blurred image sharpened by the laplacian operator
+- `sobelres.png`: the blurred image sharpened by the Sobel operator
+
+`project3/sharpen_gradient.py`: use gradient method to sharpen image
+
+`project3/sharpen_laplace.py`: use laplacian operator and sobel operator to sharpen image
