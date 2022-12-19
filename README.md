@@ -61,7 +61,7 @@ This is the digital image processing course projects of SJTU.
 
 `project3/sharpen_laplace.py`: use laplacian operator and sobel operator to sharpen image
 
-## Project3
+## Project4
 
 ![image4](https://github.com/JeremyChou28/digital_image_processing/blob/main/imgs/image4.png)
 
