@@ -1,3 +1,10 @@
+<!--
+ * @Description:
+ * @Author: Jianping Zhou
+ * @Email: jianpingzhou0927@gmail.com
+ * @Date: 2022-12-02 18:46:15
+-->
+
 # Digital Image Processing
 
 This is the digital image processing course projects of SJTU.
@@ -53,3 +60,25 @@ This is the digital image processing course projects of SJTU.
 `project3/sharpen_gradient.py`: use gradient method to sharpen image
 
 `project3/sharpen_laplace.py`: use laplacian operator and sobel operator to sharpen image
+
+## Project3
+
+![image4](https://github.com/JeremyChou28/digital_image_processing/blob/main/imgs/image4.png)
+
+`project4/images`：
+
+- `book.png`: a book image
+- `person.png`: an image of a person stand nearby window
+
+`project4/results`：
+
+- `book/gray_book.png`: gray image of book
+- `book/segmented_region_book.png`: use region-growth segmentation method for book image
+- `book/segmented_threshold_book.png`: use threshold-based segmentation method for book image
+- `person/gray_person.png`: gray image of person
+- `person/segmented_region_person.png`: use region-growth segmentation method for person image
+- `person/segmented_threshold_person.png`: use threshold-based segmentation method for person image
+
+`project4/segmentation_book.ipynb`: use threshold-based and region-growth segmentation method to segment book image
+
+`project4/segmentation_person.ipynb`: use threshold-based and region-growth segmentation method to segment person image
