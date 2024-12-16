@@ -21,6 +21,8 @@ This is the digital image processing course projects of SJTU.
 
 `project1/main2.m`: use DCT/IDCT, low-pass filtering and high-pass filtering
 
+[CSDN blog](https://blog.csdn.net/qq_46041930/article/details/134963403?spm=1001.2014.3001.5501)
+
 ## Project2
 
 ![image2](https://github.com/JeremyChou28/digital_image_processing/blob/main/imgs/image2.png)
@@ -46,6 +48,8 @@ This is the digital image processing course projects of SJTU.
 
 `project2/wavelet_based_denoising.py`: use wavelet-based denoising algorithm
 
+[CSDN blog](https://blog.csdn.net/qq_46041930/article/details/134963498?spm=1001.2014.3001.5501)
+
 ## Project3
 
 ![image3](https://github.com/JeremyChou28/digital_image_processing/blob/main/imgs/image3.png)
@@ -60,6 +64,8 @@ This is the digital image processing course projects of SJTU.
 `project3/sharpen_gradient.py`: use gradient method to sharpen image
 
 `project3/sharpen_laplace.py`: use laplacian operator and sobel operator to sharpen image
+
+[CSDN blog](https://blog.csdn.net/qq_46041930/article/details/134963578?spm=1001.2014.3001.5501)
 
 ## Project4
 
@@ -82,3 +88,5 @@ This is the digital image processing course projects of SJTU.
 `project4/segmentation_book.ipynb`: use threshold-based and region-growth segmentation method to segment book image
 
 `project4/segmentation_person.ipynb`: use threshold-based and region-growth segmentation method to segment person image
+
+[CSDN blog](https://blog.csdn.net/qq_46041930/article/details/134963616?spm=1001.2014.3001.5501)
